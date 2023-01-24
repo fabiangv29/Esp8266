@@ -5,7 +5,7 @@
 # For more info:
 # https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5-3rd-party-Hardware-specification
 
-name=ESP8266 Boards (3.1.1)
+name=Smart Home
 version=3.1.1
 
 # These will be removed by the packager script when doing a JSON release
