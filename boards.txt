@@ -456,8 +456,8 @@ moes_t1_3.menu.eesz.autoflash.build.extra_flags=-DFLASH_MAP_SUPPORT=1
 moes_t1_3.menu.eesz.autoflash.upload.maximum_size=1044464
 
 ##############################################################
-test_nodemcu.name=Test (NodeMCU)
-test_nodemcu.build.board=Test_(NodeMCU)
+test_nodemcu.name=Test NodeMCU
+test_nodemcu.build.board=Test_NodeMCU
 test_nodemcu.build.variant=test_nodemcu
 test_nodemcu.upload.tool=esptool
 test_nodemcu.upload.maximum_data_size=81920
